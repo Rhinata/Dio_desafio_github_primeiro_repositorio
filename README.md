@@ -23,6 +23,3 @@ _**"Faça o teu melhor, na condição que você tem, enquanto você não tem con
 
 <<<<<<< Updated upstream
 #### GitHub: <https://github.com/Rhinata?tab=repositories>
-=======
-#### GitHub: <https://github.com/Rhinata?tab=repositories>
->>>>>>> Stashed changes

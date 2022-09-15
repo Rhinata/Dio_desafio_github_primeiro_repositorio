@@ -1,0 +1,4 @@
+git add * = Adiciona as alterações feitas no github 
+git status - Verifica as informações se foram mandadas corretamente
+git push origin master -  Envia as modificações feitas de sua maquina para o repositorio github
+git pull origin master - Puxa as modificações do github para sua maquina
